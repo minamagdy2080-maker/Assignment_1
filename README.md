@@ -3,7 +3,7 @@
 ## Objective
 The objective of this assignment is to explore gene expression data and identify biological patterns using:
 * **Heatmaps**: To visualize expression levels across samples and genes.
-* **Dimensionality Reduction**: Utilizing **UMAP** to project high-dimensional data into a 2D space for cluster identification.
+* **Dimensionality Reduction**: Utilizing **UMAP** and **T-SNE** to project high-dimensional data into a 2D space for cluster identification.
 
 ## Project Structure
 * Assignment_1.py: The main Python script containing the data processing and visualization logic.
